@@ -1,0 +1,226 @@
+{
+ "opis": "Talas 2: prozori 8 do 24 (natpisi, tekstovi objava, promptovi). Datum objave prozora N = N. decembar u 19:00 ET (N+1. decembar u 01:00 u Hamburgu).",
+ "prozori": {
+  "8": {
+   "natpis_a": "Twenty-three houses said yes.",
+   "natpis_b": "One answer was simple: that house doesn't do windows.",
+   "tekst_objave": "Window 8 of 24 🏠 Twenty-three houses said yes to the Advent Windows. The twenty-fourth said no.",
+   "prompt_a": {
+    "fajl": "nh_24w_w08_a_1080x1920.png",
+    "prompt": "Row of small Vermont houses along a snowy street at dusk, many windows decorated and glowing warm gold, one modest farmhouse at the far end with all windows dark. Cinematic cozy photograph, small New England town in Vermont, early December blue hour, fresh snow, warm amber window light against deep blue dusk, soft film grain, shallow depth of field, muted palette of navy, cream, warm gold and pine green. Main subject in the middle of the frame, calm empty space at top and bottom. No faces, no text, no letters, no numbers, no logos, no watermark. Vertical 9:16, exactly 1080x1920 pixels."
+   },
+   "prompt_b": {
+    "fajl": "nh_24w_w08_b_1080x1920.png",
+    "prompt": "Close-up of a wooden front door of an old white farmhouse with a plain brass knocker, no wreath, untouched snow on the step, a single porch light off, blue dusk. Cinematic cozy photograph, small New England town in Vermont, early December blue hour, fresh snow, warm amber window light against deep blue dusk, soft film grain, shallow depth of field, muted palette of navy, cream, warm gold and pine green. Main subject in the middle of the frame, calm empty space at top and bottom. No faces, no text, no letters, no numbers, no logos, no watermark. Vertical 9:16, exactly 1080x1920 pixels."
+   }
+  },
+  "9": {
+   "natpis_a": "Every night, the town walks from glow to glow.",
+   "natpis_b": "Cocoa in hand. One more window to find.",
+   "tekst_objave": "Window 9 of 24 ☕ Every night the whole town walks from glow to glow, cocoa in hand.",
+   "prompt_a": {
+    "fajl": "nh_24w_w09_a_1080x1920.png",
+    "prompt": "A snowy sidewalk at dusk with many footprints leading toward a softly lit decorated window in the distance, paper lanterns hanging from a fence. Cinematic cozy photograph, small New England town in Vermont, early December blue hour, fresh snow, warm amber window light against deep blue dusk, soft film grain, shallow depth of field, muted palette of navy, cream, warm gold and pine green. Main subject in the middle of the frame, calm empty space at top and bottom. No faces, no text, no letters, no numbers, no logos, no watermark. Vertical 9:16, exactly 1080x1920 pixels."
+   },
+   "prompt_b": {
+    "fajl": "nh_24w_w09_b_1080x1920.png",
+    "prompt": "Close-up of a mitten holding a steaming paper cup of cocoa with marshmallows, snowy street lights blurred in the background, no face visible. Cinematic cozy photograph, small New England town in Vermont, early December blue hour, fresh snow, warm amber window light against deep blue dusk, soft film grain, shallow depth of field, muted palette of navy, cream, warm gold and pine green. Main subject in the middle of the frame, calm empty space at top and bottom. No faces, no text, no letters, no numbers, no logos, no watermark. Vertical 9:16, exactly 1080x1920 pixels."
+   }
+  },
+  "10": {
+   "natpis_a": "A postcard, signed only \"J.\"",
+   "natpis_b": "Faded, folded, and kept for a reason.",
+   "tekst_objave": "Window 10 of 24 ✉️ A postcard from long ago, signed only \"J.\" Who was J?",
+   "prompt_a": {
+    "fajl": "nh_24w_w10_a_1080x1920.png",
+    "prompt": "An old vintage Christmas postcard lying face down on a snowy windowsill, faded ink handwriting too blurred to read, a sprig of holly beside it, warm window light. Cinematic cozy photograph, small New England town in Vermont, early December blue hour, fresh snow, warm amber window light against deep blue dusk, soft film grain, shallow depth of field, muted palette of navy, cream, warm gold and pine green. Main subject in the middle of the frame, calm empty space at top and bottom. No faces, no text, no letters, no numbers, no logos, no watermark. Vertical 9:16, exactly 1080x1920 pixels."
+   },
+   "prompt_b": {
+    "fajl": "nh_24w_w10_b_1080x1920.png",
+    "prompt": "A 1960s style mailbox at the end of a snowy country lane at dusk, the little flag down, pines behind it, faint warm glow from a distant farmhouse. Cinematic cozy photograph, small New England town in Vermont, early December blue hour, fresh snow, warm amber window light against deep blue dusk, soft film grain, shallow depth of field, muted palette of navy, cream, warm gold and pine green. Main subject in the middle of the frame, calm empty space at top and bottom. No faces, no text, no letters, no numbers, no logos, no watermark. Vertical 9:16, exactly 1080x1920 pixels."
+   }
+  },
+  "11": {
+   "natpis_a": "The tradition crossed an ocean more than a century ago.",
+   "natpis_b": "It started in a little town in Germany.",
+   "tekst_objave": "Window 11 of 24 🌍 The Advent Windows came to Wrenfield from Goslar, Germany, more than a century ago.",
+   "prompt_a": {
+    "fajl": "nh_24w_w11_a_1080x1920.png",
+    "prompt": "Old steamer trunk with worn leather straps sitting in a snowy farmhouse attic under a small round window, a few old Christmas ornaments wrapped in paper inside, warm lamp light. Cinematic cozy photograph, small New England town in Vermont, early December blue hour, fresh snow, warm amber window light against deep blue dusk, soft film grain, shallow depth of field, muted palette of navy, cream, warm gold and pine green. Main subject in the middle of the frame, calm empty space at top and bottom. No faces, no text, no letters, no numbers, no logos, no watermark. Vertical 9:16, exactly 1080x1920 pixels."
+   },
+   "prompt_b": {
+    "fajl": "nh_24w_w11_b_1080x1920.png",
+    "prompt": "Close-up of a hand-painted antique glass Christmas ornament shaped like a little house, hanging in a frosted window, candlelight behind it. Cinematic cozy photograph, small New England town in Vermont, early December blue hour, fresh snow, warm amber window light against deep blue dusk, soft film grain, shallow depth of field, muted palette of navy, cream, warm gold and pine green. Main subject in the middle of the frame, calm empty space at top and bottom. No faces, no text, no letters, no numbers, no logos, no watermark. Vertical 9:16, exactly 1080x1920 pixels."
+   }
+  },
+  "12": {
+   "natpis_a": "She came with two suitcases.",
+   "natpis_b": "And a contract that ends on December 31.",
+   "tekst_objave": "Window 12 of 24 🧳 She came to Wrenfield with two suitcases and a plan to leave before anything could ask her to stay.",
+   "prompt_a": {
+    "fajl": "nh_24w_w12_a_1080x1920.png",
+    "prompt": "Two vintage leather suitcases standing beside the door of a small rented room, a wool coat on a hook, snow falling past the window at dusk. Cinematic cozy photograph, small New England town in Vermont, early December blue hour, fresh snow, warm amber window light against deep blue dusk, soft film grain, shallow depth of field, muted palette of navy, cream, warm gold and pine green. Main subject in the middle of the frame, calm empty space at top and bottom. No faces, no text, no letters, no numbers, no logos, no watermark. Vertical 9:16, exactly 1080x1920 pixels."
+   },
+   "prompt_b": {
+    "fajl": "nh_24w_w12_b_1080x1920.png",
+    "prompt": "A desk calendar page for December resting on a stack of library books, a pen beside it, warm lamp light, snow outside the window, no readable text. Cinematic cozy photograph, small New England town in Vermont, early December blue hour, fresh snow, warm amber window light against deep blue dusk, soft film grain, shallow depth of field, muted palette of navy, cream, warm gold and pine green. Main subject in the middle of the frame, calm empty space at top and bottom. No faces, no text, no letters, no numbers, no logos, no watermark. Vertical 9:16, exactly 1080x1920 pixels."
+   }
+  },
+  "13": {
+   "natpis_a": "A quiet carpenter in his late grandmother's house.",
+   "natpis_b": "And the one window he won't light.",
+   "tekst_objave": "Window 13 of 24 🔨 A quiet carpenter living in his late grandmother's house on Orchard Lane, and the one window he won't light.",
+   "prompt_a": {
+    "fajl": "nh_24w_w13_a_1080x1920.png",
+    "prompt": "A carpenter's toolbox and a wooden ladder leaning against a snowy porch of a neighbor's house, a freshly repaired window frame, warm light inside. Cinematic cozy photograph, small New England town in Vermont, early December blue hour, fresh snow, warm amber window light against deep blue dusk, soft film grain, shallow depth of field, muted palette of navy, cream, warm gold and pine green. Main subject in the middle of the frame, calm empty space at top and bottom. No faces, no text, no letters, no numbers, no logos, no watermark. Vertical 9:16, exactly 1080x1920 pixels."
+   },
+   "prompt_b": {
+    "fajl": "nh_24w_w13_b_1080x1920.png",
+    "prompt": "Close-up of a wooden window frame being sanded, sawdust and wood shavings on a workbench, warm work lamp, snowy barn door open in the background, no hands. Cinematic cozy photograph, small New England town in Vermont, early December blue hour, fresh snow, warm amber window light against deep blue dusk, soft film grain, shallow depth of field, muted palette of navy, cream, warm gold and pine green. Main subject in the middle of the frame, calm empty space at top and bottom. No faces, no text, no letters, no numbers, no logos, no watermark. Vertical 9:16, exactly 1080x1920 pixels."
+   }
+  },
+  "14": {
+   "natpis_a": "Some boxes wait in the attic for sixty years.",
+   "natpis_b": "This one was marked 24.",
+   "tekst_objave": "Window 14 of 24 📦 Some boxes wait in the attic for sixty years. This one was marked 24.",
+   "prompt_a": {
+    "fajl": "nh_24w_w14_a_1080x1920.png",
+    "prompt": "Dusty farmhouse attic at dusk, slanted wooden beams, a single old cardboard box under a small window, a beam of warm light from a lantern on the floor. Cinematic cozy photograph, small New England town in Vermont, early December blue hour, fresh snow, warm amber window light against deep blue dusk, soft film grain, shallow depth of field, muted palette of navy, cream, warm gold and pine green. Main subject in the middle of the frame, calm empty space at top and bottom. No faces, no text, no letters, no numbers, no logos, no watermark. Vertical 9:16, exactly 1080x1920 pixels."
+   },
+   "prompt_b": {
+    "fajl": "nh_24w_w14_b_1080x1920.png",
+    "prompt": "Close-up of an old cardboard box lid half open, inside folded letters tied with a faded ribbon and a pair of vintage glass candleholders, soft lantern light. Cinematic cozy photograph, small New England town in Vermont, early December blue hour, fresh snow, warm amber window light against deep blue dusk, soft film grain, shallow depth of field, muted palette of navy, cream, warm gold and pine green. Main subject in the middle of the frame, calm empty space at top and bottom. No faces, no text, no letters, no numbers, no logos, no watermark. Vertical 9:16, exactly 1080x1920 pixels."
+   }
+  },
+  "15": {
+   "natpis_a": "A letter that was never sent.",
+   "natpis_b": "Some words wait a long time for the right reader.",
+   "tekst_objave": "Window 15 of 24 💌 A letter that was never sent. Some words wait a long time for the right reader.",
+   "prompt_a": {
+    "fajl": "nh_24w_w15_a_1080x1920.png",
+    "prompt": "An old sealed envelope with a vintage stamp lying on a wooden table beside a candle, a pine sprig and a fountain pen, snowy window behind. Cinematic cozy photograph, small New England town in Vermont, early December blue hour, fresh snow, warm amber window light against deep blue dusk, soft film grain, shallow depth of field, muted palette of navy, cream, warm gold and pine green. Main subject in the middle of the frame, calm empty space at top and bottom. No faces, no text, no letters, no numbers, no logos, no watermark. Vertical 9:16, exactly 1080x1920 pixels."
+   },
+   "prompt_b": {
+    "fajl": "nh_24w_w15_b_1080x1920.png",
+    "prompt": "A small wooden writing desk by a frosted window at night, an empty chair, a lamp left on, snow falling outside. Cinematic cozy photograph, small New England town in Vermont, early December blue hour, fresh snow, warm amber window light against deep blue dusk, soft film grain, shallow depth of field, muted palette of navy, cream, warm gold and pine green. Main subject in the middle of the frame, calm empty space at top and bottom. No faces, no text, no letters, no numbers, no logos, no watermark. Vertical 9:16, exactly 1080x1920 pixels."
+   }
+  },
+  "16": {
+   "natpis_a": "A librarian who plans to leave.",
+   "natpis_b": "A carpenter who plans to stay out of it.",
+   "tekst_objave": "Window 16 of 24 ☕ A librarian who plans to leave. A carpenter who plans to stay out of it. Neither plan is going well.",
+   "prompt_a": {
+    "fajl": "nh_24w_w16_a_1080x1920.png",
+    "prompt": "Two steaming mugs on a snowy wooden bench outside a lit house, a wool scarf draped over the bench, fairy lights on the porch railing. Cinematic cozy photograph, small New England town in Vermont, early December blue hour, fresh snow, warm amber window light against deep blue dusk, soft film grain, shallow depth of field, muted palette of navy, cream, warm gold and pine green. Main subject in the middle of the frame, calm empty space at top and bottom. No faces, no text, no letters, no numbers, no logos, no watermark. Vertical 9:16, exactly 1080x1920 pixels."
+   },
+   "prompt_b": {
+    "fajl": "nh_24w_w16_b_1080x1920.png",
+    "prompt": "Two pairs of boots side by side on a snowy porch step, one pair work boots, one pair women's winter boots, warm door light. Cinematic cozy photograph, small New England town in Vermont, early December blue hour, fresh snow, warm amber window light against deep blue dusk, soft film grain, shallow depth of field, muted palette of navy, cream, warm gold and pine green. Main subject in the middle of the frame, calm empty space at top and bottom. No faces, no text, no letters, no numbers, no logos, no watermark. Vertical 9:16, exactly 1080x1920 pixels."
+   }
+  },
+  "17": {
+   "natpis_a": "Every night, a new neighbor.",
+   "natpis_b": "Every neighbor, a new clue.",
+   "tekst_objave": "Window 17 of 24 🕵️ Every night in Wrenfield brings a new window, a new neighbor, and a new clue.",
+   "prompt_a": {
+    "fajl": "nh_24w_w17_a_1080x1920.png",
+    "prompt": "A small-town diner window at dusk with steam on the glass, a counter with pie under glass domes visible inside, snow on the sill. Cinematic cozy photograph, small New England town in Vermont, early December blue hour, fresh snow, warm amber window light against deep blue dusk, soft film grain, shallow depth of field, muted palette of navy, cream, warm gold and pine green. Main subject in the middle of the frame, calm empty space at top and bottom. No faces, no text, no letters, no numbers, no logos, no watermark. Vertical 9:16, exactly 1080x1920 pixels."
+   },
+   "prompt_b": {
+    "fajl": "nh_24w_w17_b_1080x1920.png",
+    "prompt": "Inside a cozy small-town general store at dusk, wooden shelves with jars and garland, an old brass cash register, snowy window, no people. Cinematic cozy photograph, small New England town in Vermont, early December blue hour, fresh snow, warm amber window light against deep blue dusk, soft film grain, shallow depth of field, muted palette of navy, cream, warm gold and pine green. Main subject in the middle of the frame, calm empty space at top and bottom. No faces, no text, no letters, no numbers, no logos, no watermark. Vertical 9:16, exactly 1080x1920 pixels."
+   }
+  },
+  "18": {
+   "natpis_a": "A job offer in Chicago.",
+   "natpis_b": "An answer she keeps putting off.",
+   "tekst_objave": "Window 18 of 24 🏙️ A job offer in Chicago is waiting for her answer. She keeps putting it off.",
+   "prompt_a": {
+    "fajl": "nh_24w_w18_a_1080x1920.png",
+    "prompt": "A train station platform in a small snowy Vermont town at dusk, an empty bench, a lit station lamp, tracks disappearing into the snow. Cinematic cozy photograph, small New England town in Vermont, early December blue hour, fresh snow, warm amber window light against deep blue dusk, soft film grain, shallow depth of field, muted palette of navy, cream, warm gold and pine green. Main subject in the middle of the frame, calm empty space at top and bottom. No faces, no text, no letters, no numbers, no logos, no watermark. Vertical 9:16, exactly 1080x1920 pixels."
+   },
+   "prompt_b": {
+    "fajl": "nh_24w_w18_b_1080x1920.png",
+    "prompt": "A phone lying face down on a windowsill next to a mug of tea, snow falling outside, a softly glowing lit window across the street. Cinematic cozy photograph, small New England town in Vermont, early December blue hour, fresh snow, warm amber window light against deep blue dusk, soft film grain, shallow depth of field, muted palette of navy, cream, warm gold and pine green. Main subject in the middle of the frame, calm empty space at top and bottom. No faces, no text, no letters, no numbers, no logos, no watermark. Vertical 9:16, exactly 1080x1920 pixels."
+   }
+  },
+  "19": {
+   "natpis_a": "She came to bring back a tradition.",
+   "natpis_b": "She didn't plan on finding a home.",
+   "tekst_objave": "Window 19 of 24 🏡 She came to bring back a tradition. She didn't plan on finding a home.",
+   "prompt_a": {
+    "fajl": "nh_24w_w19_a_1080x1920.png",
+    "prompt": "A small library building on a snowy town green at dusk, every window glowing warm, a wreath on the door, footprints leading to the steps. Cinematic cozy photograph, small New England town in Vermont, early December blue hour, fresh snow, warm amber window light against deep blue dusk, soft film grain, shallow depth of field, muted palette of navy, cream, warm gold and pine green. Main subject in the middle of the frame, calm empty space at top and bottom. No faces, no text, no letters, no numbers, no logos, no watermark. Vertical 9:16, exactly 1080x1920 pixels."
+   },
+   "prompt_b": {
+    "fajl": "nh_24w_w19_b_1080x1920.png",
+    "prompt": "A reading nook by a library window with a knitted blanket on an armchair and a stack of Christmas books, snow outside, warm lamp light. Cinematic cozy photograph, small New England town in Vermont, early December blue hour, fresh snow, warm amber window light against deep blue dusk, soft film grain, shallow depth of field, muted palette of navy, cream, warm gold and pine green. Main subject in the middle of the frame, calm empty space at top and bottom. No faces, no text, no letters, no numbers, no logos, no watermark. Vertical 9:16, exactly 1080x1920 pixels."
+   }
+  },
+  "20": {
+   "natpis_a": "Some windows stay dark for a reason.",
+   "natpis_b": "Some reasons stop mattering.",
+   "tekst_objave": "Window 20 of 24 🕯️ Some windows stay dark for a reason. Some reasons stop mattering.",
+   "prompt_a": {
+    "fajl": "nh_24w_w20_a_1080x1920.png",
+    "prompt": "An unlit candle in an old brass candleholder on the inside sill of a dark farmhouse window, frost on the glass, blue night outside. Cinematic cozy photograph, small New England town in Vermont, early December blue hour, fresh snow, warm amber window light against deep blue dusk, soft film grain, shallow depth of field, muted palette of navy, cream, warm gold and pine green. Main subject in the middle of the frame, calm empty space at top and bottom. No faces, no text, no letters, no numbers, no logos, no watermark. Vertical 9:16, exactly 1080x1920 pixels."
+   },
+   "prompt_b": {
+    "fajl": "nh_24w_w20_b_1080x1920.png",
+    "prompt": "A box of old matches and a candle on a wooden windowsill, warm light from another room spilling across, snow falling outside. Cinematic cozy photograph, small New England town in Vermont, early December blue hour, fresh snow, warm amber window light against deep blue dusk, soft film grain, shallow depth of field, muted palette of navy, cream, warm gold and pine green. Main subject in the middle of the frame, calm empty space at top and bottom. No faces, no text, no letters, no numbers, no logos, no watermark. Vertical 9:16, exactly 1080x1920 pixels."
+   }
+  },
+  "21": {
+   "natpis_a": "The whole town is counting the nights.",
+   "natpis_b": "Three windows left.",
+   "tekst_objave": "Window 21 of 24 ✨ The whole town is counting the nights. Three windows left.",
+   "prompt_a": {
+    "fajl": "nh_24w_w21_a_1080x1920.png",
+    "prompt": "A snowy town green at night with a tall decorated Christmas tree, strings of warm lights, small houses with glowing windows all around. Cinematic cozy photograph, small New England town in Vermont, early December blue hour, fresh snow, warm amber window light against deep blue dusk, soft film grain, shallow depth of field, muted palette of navy, cream, warm gold and pine green. Main subject in the middle of the frame, calm empty space at top and bottom. No faces, no text, no letters, no numbers, no logos, no watermark. Vertical 9:16, exactly 1080x1920 pixels."
+   },
+   "prompt_b": {
+    "fajl": "nh_24w_w21_b_1080x1920.png",
+    "prompt": "A wooden Advent calendar shaped like a little house with tiny doors, most of them open, three still closed, on a mantel with pine garland. Cinematic cozy photograph, small New England town in Vermont, early December blue hour, fresh snow, warm amber window light against deep blue dusk, soft film grain, shallow depth of field, muted palette of navy, cream, warm gold and pine green. Main subject in the middle of the frame, calm empty space at top and bottom. No faces, no text, no letters, no numbers, no logos, no watermark. Vertical 9:16, exactly 1080x1920 pixels."
+   }
+  },
+  "22": {
+   "natpis_a": "A postcard. A box. A letter.",
+   "natpis_b": "The clues are starting to fit.",
+   "tekst_objave": "Window 22 of 24 🧩 A postcard signed J. A box marked 24. A letter never sent. The clues are starting to fit.",
+   "prompt_a": {
+    "fajl": "nh_24w_w22_a_1080x1920.png",
+    "prompt": "An old red barn at night in the snow, its big door slightly open, warm lamp light and a glimpse of a workbench inside. Cinematic cozy photograph, small New England town in Vermont, early December blue hour, fresh snow, warm amber window light against deep blue dusk, soft film grain, shallow depth of field, muted palette of navy, cream, warm gold and pine green. Main subject in the middle of the frame, calm empty space at top and bottom. No faces, no text, no letters, no numbers, no logos, no watermark. Vertical 9:16, exactly 1080x1920 pixels."
+   },
+   "prompt_b": {
+    "fajl": "nh_24w_w22_b_1080x1920.png",
+    "prompt": "An old postcard, a small cardboard box lid and a sealed envelope laid side by side on a wooden table, candlelight, snowy window behind. Cinematic cozy photograph, small New England town in Vermont, early December blue hour, fresh snow, warm amber window light against deep blue dusk, soft film grain, shallow depth of field, muted palette of navy, cream, warm gold and pine green. Main subject in the middle of the frame, calm empty space at top and bottom. No faces, no text, no letters, no numbers, no logos, no watermark. Vertical 9:16, exactly 1080x1920 pixels."
+   }
+  },
+  "23": {
+   "natpis_a": "One more night.",
+   "natpis_b": "One window left to light.",
+   "tekst_objave": "Window 23 of 24 🌙 One more night. One window left to light.",
+   "prompt_a": {
+    "fajl": "nh_24w_w23_a_1080x1920.png",
+    "prompt": "Snowy Orchard Lane at night, a row of mailboxes, a farmhouse at the end of the lane with lights on downstairs and the upstairs window still dark. Cinematic cozy photograph, small New England town in Vermont, early December blue hour, fresh snow, warm amber window light against deep blue dusk, soft film grain, shallow depth of field, muted palette of navy, cream, warm gold and pine green. Main subject in the middle of the frame, calm empty space at top and bottom. No faces, no text, no letters, no numbers, no logos, no watermark. Vertical 9:16, exactly 1080x1920 pixels."
+   },
+   "prompt_b": {
+    "fajl": "nh_24w_w23_b_1080x1920.png",
+    "prompt": "A white candle and a box of matches waiting on a wooden windowsill, frost on the glass, a full moon over snowy pines outside. Cinematic cozy photograph, small New England town in Vermont, early December blue hour, fresh snow, warm amber window light against deep blue dusk, soft film grain, shallow depth of field, muted palette of navy, cream, warm gold and pine green. Main subject in the middle of the frame, calm empty space at top and bottom. No faces, no text, no letters, no numbers, no logos, no watermark. Vertical 9:16, exactly 1080x1920 pixels."
+   }
+  },
+  "24": {
+   "natpis_a": "Christmas Eve on Orchard Lane.",
+   "natpis_b": "The whole town is waiting for Window 24.",
+   "tekst_objave": "Window 24 of 24 🎄 Christmas Eve on Orchard Lane. The whole town is waiting for the last window. Find out what happens in Twenty-Four Windows.",
+   "prompt_a": {
+    "fajl": "nh_24w_w24_a_1080x1920.png",
+    "prompt": "Many people seen from behind gathered in the snow on a country lane at night with lanterns, looking toward a white farmhouse, faces not visible. Cinematic cozy photograph, small New England town in Vermont, early December blue hour, fresh snow, warm amber window light against deep blue dusk, soft film grain, shallow depth of field, muted palette of navy, cream, warm gold and pine green. Main subject in the middle of the frame, calm empty space at top and bottom. No faces, no text, no letters, no numbers, no logos, no watermark. Vertical 9:16, exactly 1080x1920 pixels."
+   },
+   "prompt_b": {
+    "fajl": "nh_24w_w24_b_1080x1920.png",
+    "prompt": "Snow falling softly over a white farmhouse at night, warm glow from the downstairs windows, a starry sky, peaceful and quiet. Cinematic cozy photograph, small New England town in Vermont, early December blue hour, fresh snow, warm amber window light against deep blue dusk, soft film grain, shallow depth of field, muted palette of navy, cream, warm gold and pine green. Main subject in the middle of the frame, calm empty space at top and bottom. No faces, no text, no letters, no numbers, no logos, no watermark. Vertical 9:16, exactly 1080x1920 pixels."
+   }
+  }
+ }
+}
