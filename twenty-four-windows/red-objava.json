@@ -1,55 +1,130 @@
 {
-  "opis": "Red objava za Buffer (Noelle Hartley, Twenty-Four Windows). Popunjavaj slobodna mesta (limit 10 zakazanih ukupno) po redu najranijeg termina. Posle zakazivanja upisi 'zakazano': true i buffer id.",
-  "kanali": {
-    "tiktok": "6b0811f78541f09ecbadf816",
-    "instagram": "6b08115a8541f09ecbade831",
-    "pinterest": "6b0812238541f09ecbadfb5e",
-    "pinterest_board_serviceId": "225883806249778366"
+ "opis": "Red objava za Buffer (Noelle Hartley, Twenty-Four Windows). Popunjavaj slobodna mesta (limit 10 zakazanih ukupno) po redu najranijeg termina. Posle zakazivanja upisi 'zakazano': true i buffer id.",
+ "kanali": {
+  "tiktok": "6b0811f78541f09ecbadf816",
+  "instagram": "6b08115a8541f09ecbade831",
+  "pinterest": "6b0812238541f09ecbadfb5e",
+  "pinterest_board_serviceId": "225883806249778366"
+ },
+ "pravila": {
+  "tiktok_metadata": {
+   "tiktok": {
+    "isAiGenerated": true
+   }
   },
-  "pravila": {
-    "tiktok_metadata": {"tiktok": {"isAiGenerated": true}},
-    "instagram_metadata": {"instagram": {"type": "reel", "shouldShareToFeed": true}},
-    "pinterest_url": "https://www.amazon.com/dp/B0HQYGNWTB",
-    "media_base": "https://raw.githubusercontent.com/milossdlc/noelle-media/main/twenty-four-windows/advent/",
-    "hashtags_tiktok": "#christmasromance #cleanromance #booktok #smalltownromance #christmasbooks #holidayreads",
-    "hashtags_instagram": "#christmasromance #cleanromance #booktok #bookstagram #smalltownromance #christmasbooks #holidayreads",
-    "zavrsetak_teksta": "Twenty-Four Windows, a clean small-town Christmas romance. Link in bio."
+  "instagram_metadata": {
+   "instagram": {
+    "type": "reel",
+    "shouldShareToFeed": true
+   }
   },
-  "red": [
-    {"tip": "pin", "prozor": 3, "dueAt": "2026-11-29T21:00:00+01:00", "fajl": "nh_24w_pin_w03_1000x1500.jpg",
-     "naslov": "Window 3 of 24 | Clean Small-Town Christmas Romance",
-     "tekst": "In 1962, Window 24 stayed dark. The carpenter who lives there now doesn't do Christmas. A sweet, clean small-town Christmas romance with a happily ever after. Twenty-Four Windows by Noelle Hartley.",
-     "alt": "White farmhouse in the snow at dusk with lit downstairs windows and one dark upstairs window, text Window 3 of 24"},
-    {"tip": "video", "prozor": 1, "dueAt": "2026-12-02T01:00:00+01:00", "fajl": "nh_24w_w01_1080x1920.mp4",
-     "tekst": "Window 1 of 24 🕯️ Every December night in Wrenfield, Vermont, one window lights up. In 1962, one stayed dark."},
-    {"tip": "pin", "prozor": 4, "dueAt": "2026-11-30T21:00:00+01:00", "fajl": "nh_24w_pin_w04_1000x1500.jpg",
-     "naslov": "Window 4 of 24 | Christmas Romance with a Secret from 1962",
-     "tekst": "Nobody in town will say what happened that winter of 1962. Some love stories wait sixty years for an ending. A clean, cozy small-town Christmas romance. Twenty-Four Windows by Noelle Hartley.",
-     "alt": "Vintage car under snow on a small-town street with old-fashioned Christmas lights, text Window 4 of 24"},
-    {"tip": "video", "prozor": 2, "dueAt": "2026-12-03T01:00:00+01:00", "fajl": "nh_24w_w02_1080x1920.mp4",
-     "tekst": "Window 2 of 24 📖 This year the librarian brought the old tradition back, and found a diary next to a box marked 24."},
-    {"tip": "pin", "prozor": 5, "dueAt": "2026-12-01T21:00:00+01:00", "fajl": "nh_24w_pin_w05_1000x1500.jpg",
-     "naslov": "Window 5 of 24 | Cozy Small-Town Christmas Romance",
-     "tekst": "Every evening the whole town walks to the next lit window, and she keeps ending up next to him. A sweet, clean Christmas romance set in snowy Vermont. Twenty-Four Windows by Noelle Hartley.",
-     "alt": "Bakery window decorated with wooden stars and pine garland in falling snow, text Window 5 of 24"},
-    {"tip": "video", "prozor": 3, "dueAt": "2026-12-04T01:00:00+01:00", "fajl": "nh_24w_w03_1080x1920.mp4",
-     "tekst": "Window 3 of 24 🏡 In 1962, Window 24 stayed dark. The carpenter who lives there now doesn't do Christmas."},
-    {"tip": "pin", "prozor": 6, "dueAt": "2026-12-02T21:00:00+01:00", "fajl": "nh_24w_pin_w06_1000x1500.jpg",
-     "naslov": "Window 6 of 24 | Grumpy Carpenter Christmas Romance",
-     "tekst": "He builds things for a living. Not feelings. Cocoa on the porch might be a start. A clean small-town Christmas romance with a happily ever after. Twenty-Four Windows by Noelle Hartley.",
-     "alt": "Window with a handmade wooden Christmas village lit by fairy lights, text Window 6 of 24"},
-    {"tip": "pin", "prozor": 7, "dueAt": "2026-12-03T21:00:00+01:00", "fajl": "nh_24w_pin_w07_1000x1500.jpg",
-     "naslov": "Window 7 of 24 | Clean Christmas Romance Book",
-     "tekst": "One week in. Seventeen windows to go, and one dark window she can't stop thinking about. A sweet small-town Christmas romance. Twenty-Four Windows by Noelle Hartley.",
-     "alt": "Frosted window with a brass key on a red ribbon and a candle, text Window 7 of 24"},
-    {"tip": "video", "prozor": 4, "dueAt": "2026-12-05T01:00:00+01:00", "fajl": "nh_24w_w04_1080x1920.mp4",
-     "tekst": "Window 4 of 24 📷 Nobody in town will say what happened that winter. Some love stories wait sixty years for an ending."},
-    {"tip": "video", "prozor": 5, "dueAt": "2026-12-06T01:00:00+01:00", "fajl": "nh_24w_w05_1080x1920.mp4",
-     "tekst": "Window 5 of 24 🏮 Every evening the whole town walks to the next window. She keeps ending up next to him."},
-    {"tip": "video", "prozor": 6, "dueAt": "2026-12-07T01:00:00+01:00", "fajl": "nh_24w_w06_1080x1920.mp4",
-     "tekst": "Window 6 of 24 ☕ He builds things for a living. Not feelings. Cocoa on the porch might be a start."},
-    {"tip": "video", "prozor": 7, "dueAt": "2026-12-08T01:00:00+01:00", "fajl": "nh_24w_w07_1080x1920.mp4",
-     "tekst": "Window 7 of 24 🗝️ One week in. Seventeen windows to go. And one dark window she can't stop thinking about."}
-  ],
-  "napomena": "Video stavke idu na TikTok i Instagram (2 mesta). Tekst objave = tekst + prazan red + zavrsetak_teksta + prazan red + hashtagovi za tu mrezu. Prozori 8 do 24 jos nemaju slike: kad red ostane prazan, javi Milosu da treba nov talas slika."
+  "pinterest_url": "https://www.amazon.com/dp/B0HQYGNWTB",
+  "media_base": "https://raw.githubusercontent.com/milossdlc/noelle-media/main/twenty-four-windows/advent/",
+  "hashtags_tiktok": "#christmasromance #cleanromance #booktok #smalltownromance #christmasbooks #holidayreads",
+  "hashtags_instagram": "#christmasromance #cleanromance #booktok #bookstagram #smalltownromance #christmasbooks #holidayreads",
+  "zavrsetak_teksta": "Twenty-Four Windows, a clean small-town Christmas romance. Link in bio."
+ },
+ "red": [
+  {
+   "tip": "pin",
+   "prozor": 3,
+   "dueAt": "2026-11-29T21:00:00+01:00",
+   "fajl": "nh_24w_pin_w03_1000x1500.jpg",
+   "naslov": "Window 3 of 24 | Clean Small-Town Christmas Romance",
+   "tekst": "In 1962, Window 24 stayed dark. The carpenter who lives there now doesn't do Christmas. A sweet, clean small-town Christmas romance with a happily ever after. Twenty-Four Windows by Noelle Hartley.",
+   "alt": "White farmhouse in the snow at dusk with lit downstairs windows and one dark upstairs window, text Window 3 of 24",
+   "zakazano": true,
+   "buffer_id": "6b0a8a5cdb8a1c14ef1595cd"
+  },
+  {
+   "tip": "video",
+   "prozor": 1,
+   "dueAt": "2026-12-02T01:00:00+01:00",
+   "fajl": "nh_24w_w01_1080x1920.mp4",
+   "tekst": "Window 1 of 24 🕯️ Every December night in Wrenfield, Vermont, one window lights up. In 1962, one stayed dark."
+  },
+  {
+   "tip": "pin",
+   "prozor": 4,
+   "dueAt": "2026-11-30T21:00:00+01:00",
+   "fajl": "nh_24w_pin_w04_1000x1500.jpg",
+   "naslov": "Window 4 of 24 | Christmas Romance with a Secret from 1962",
+   "tekst": "Nobody in town will say what happened that winter of 1962. Some love stories wait sixty years for an ending. A clean, cozy small-town Christmas romance. Twenty-Four Windows by Noelle Hartley.",
+   "alt": "Vintage car under snow on a small-town street with old-fashioned Christmas lights, text Window 4 of 24",
+   "zakazano": true,
+   "buffer_id": "6b0a8a5cdb8a1c14ef159626"
+  },
+  {
+   "tip": "video",
+   "prozor": 2,
+   "dueAt": "2026-12-03T01:00:00+01:00",
+   "fajl": "nh_24w_w02_1080x1920.mp4",
+   "tekst": "Window 2 of 24 📖 This year the librarian brought the old tradition back, and found a diary next to a box marked 24."
+  },
+  {
+   "tip": "pin",
+   "prozor": 5,
+   "dueAt": "2026-12-01T21:00:00+01:00",
+   "fajl": "nh_24w_pin_w05_1000x1500.jpg",
+   "naslov": "Window 5 of 24 | Cozy Small-Town Christmas Romance",
+   "tekst": "Every evening the whole town walks to the next lit window, and she keeps ending up next to him. A sweet, clean Christmas romance set in snowy Vermont. Twenty-Four Windows by Noelle Hartley.",
+   "alt": "Bakery window decorated with wooden stars and pine garland in falling snow, text Window 5 of 24",
+   "zakazano": true,
+   "buffer_id": "6b0a8a5ddb8a1c14ef15968d"
+  },
+  {
+   "tip": "video",
+   "prozor": 3,
+   "dueAt": "2026-12-04T01:00:00+01:00",
+   "fajl": "nh_24w_w03_1080x1920.mp4",
+   "tekst": "Window 3 of 24 🏡 In 1962, Window 24 stayed dark. The carpenter who lives there now doesn't do Christmas."
+  },
+  {
+   "tip": "pin",
+   "prozor": 6,
+   "dueAt": "2026-12-02T21:00:00+01:00",
+   "fajl": "nh_24w_pin_w06_1000x1500.jpg",
+   "naslov": "Window 6 of 24 | Grumpy Carpenter Christmas Romance",
+   "tekst": "He builds things for a living. Not feelings. Cocoa on the porch might be a start. A clean small-town Christmas romance with a happily ever after. Twenty-Four Windows by Noelle Hartley.",
+   "alt": "Window with a handmade wooden Christmas village lit by fairy lights, text Window 6 of 24"
+  },
+  {
+   "tip": "pin",
+   "prozor": 7,
+   "dueAt": "2026-12-03T21:00:00+01:00",
+   "fajl": "nh_24w_pin_w07_1000x1500.jpg",
+   "naslov": "Window 7 of 24 | Clean Christmas Romance Book",
+   "tekst": "One week in. Seventeen windows to go, and one dark window she can't stop thinking about. A sweet small-town Christmas romance. Twenty-Four Windows by Noelle Hartley.",
+   "alt": "Frosted window with a brass key on a red ribbon and a candle, text Window 7 of 24"
+  },
+  {
+   "tip": "video",
+   "prozor": 4,
+   "dueAt": "2026-12-05T01:00:00+01:00",
+   "fajl": "nh_24w_w04_1080x1920.mp4",
+   "tekst": "Window 4 of 24 📷 Nobody in town will say what happened that winter. Some love stories wait sixty years for an ending."
+  },
+  {
+   "tip": "video",
+   "prozor": 5,
+   "dueAt": "2026-12-06T01:00:00+01:00",
+   "fajl": "nh_24w_w05_1080x1920.mp4",
+   "tekst": "Window 5 of 24 🏮 Every evening the whole town walks to the next window. She keeps ending up next to him."
+  },
+  {
+   "tip": "video",
+   "prozor": 6,
+   "dueAt": "2026-12-07T01:00:00+01:00",
+   "fajl": "nh_24w_w06_1080x1920.mp4",
+   "tekst": "Window 6 of 24 ☕ He builds things for a living. Not feelings. Cocoa on the porch might be a start."
+  },
+  {
+   "tip": "video",
+   "prozor": 7,
+   "dueAt": "2026-12-08T01:00:00+01:00",
+   "fajl": "nh_24w_w07_1080x1920.mp4",
+   "tekst": "Window 7 of 24 🗝️ One week in. Seventeen windows to go. And one dark window she can't stop thinking about."
+  }
+ ],
+ "napomena": "Video stavke idu na TikTok i Instagram (2 mesta). Tekst objave = tekst + prazan red + zavrsetak_teksta + prazan red + hashtagovi za tu mrezu. Prozori 8 do 24 jos nemaju slike: kad red ostane prazan, javi Milosu da treba nov talas slika."
 }
